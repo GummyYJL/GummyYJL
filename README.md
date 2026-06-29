@@ -1,16 +1,21 @@
-## Hi there 👋
+# Gummy
 
-<!--
-**GummyYJL/GummyYJL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer from Saudi Arabia.
 
-Here are some ideas to get you started:
+Currently learning:
+- LuaU
+- Python
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in:
+- App development
+- Open source
+- Building forks and custom software
+- Roblox development
+
+Always learning something new.
+
+## Contact
+
+- Discord: `daboygummyyjl`
+- guns.lol: **https://guns.lol/gummyyjl**
