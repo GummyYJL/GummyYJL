@@ -6,8 +6,7 @@ Currently learning:
 - LuaU
 
 interested in:
-
-Making UI In Roblox Studio
+- Making UI In Roblox Studio
 
 Always learning something new.
 
