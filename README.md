@@ -1,17 +1,9 @@
 # Gummy
 
-Developer from Saudi Arabia.
+Developer
 
 Currently learning:
 - LuaU
-- Python
-- C++
-
-Interested in:
-- App development
-- Open source
-- Building forks and custom software
-- Roblox development
 
 Always learning something new.
 
