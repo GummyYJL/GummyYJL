@@ -1,14 +1,4 @@
-# Gummy
-
-Developer
-
-Currently learning:
-- LuaU
-
-interested in:
-- Making UI In Roblox Studio
-
-Always learning something new.
+Need help with your pc or luau scripting dm me
 
 ## Contact
 
